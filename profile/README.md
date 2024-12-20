@@ -13,3 +13,5 @@ discord (access invite link in person at the space)
 [wiki](https://wiki.shhm.uk/) - [wiki: faq](https://wiki.shhm.uk/dokuwiki/doku.php?id=faq) - [wiki: tool list](https://wiki.shhm.uk/dokuwiki/doku.php?id=tools)
 
 [github](https://github.com/sheffieldhackspace/) - [website files](https://github.com/sheffieldhackspace/Public-Website) - [train sign code](https://github.com/sheffieldhackspace/train-signs)
+
+[space api](https://www.sheffieldhackspace.org.uk/spaceapi.json) ([what?](https://spaceapi.io/))
