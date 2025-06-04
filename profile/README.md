@@ -14,4 +14,6 @@ discord (access invite link in person at the space)
 
 [github](https://github.com/sheffieldhackspace/) - [website files](https://github.com/sheffieldhackspace/Public-Website) - [train sign code](https://github.com/sheffieldhackspace/train-signs)
 
+[companies house](https://find-and-update.company-information.service.gov.uk/company/09444723)
+
 [space api](https://www.sheffieldhackspace.org.uk/spaceapi.json) ([what?](https://spaceapi.io/))
